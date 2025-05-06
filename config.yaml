@@ -32,6 +32,22 @@ places:
     facilities: ["توپ والیبال", "تشک"]
     available: true
 
+  - code: "A2"
+    name: "کلاس درس 2"
+    capacity: 20
+    type: "کلاس تئوری"
+    gender: 0
+    facilities: ["ویدئوپروژکتور", "تخته هوشمند"]
+    available: true
+
+  - code: "A3"
+    name: "کلاس درس 3"
+    capacity: 40
+    type: "کلاس تئوری"
+    gender: 0
+    facilities: ["ویدئوپروژکتور", "تخته هوشمند"]
+    available: true
+
   - code: "A5"
     name: "کلاس درس ۵"
     capacity: 30
